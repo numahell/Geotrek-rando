@@ -1,6 +1,10 @@
 2.21.6-dev0
 ===================
 
+**Enhancements**
+
+* Add header height for tablet
+
 **Bug fixes**
 
 *
